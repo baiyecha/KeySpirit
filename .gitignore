@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+debug
+release
+Win32
+GeneratedFiles
+*.vcxproj
+*.filters
+*.user
